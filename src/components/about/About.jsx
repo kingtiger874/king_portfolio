@@ -7,15 +7,19 @@ const About = () => (
     <div className="about-content">
       <h1 className="heading">About Me</h1>
       <p>
-        I am a Full Stack Web Developer with experience in Ruby and JavaScript
-        Libraries and Frameworks. Excellent problem-solving skills and ability
-        to perform well in a team. Looking for opportunities that allow me to
-        continue learning and developing as a Full Stack Web Developer.
+        Highly skilled Mobile App Developer with 2 years of experience
+        in developing and launching successful applications on both iOS
+        and Android platforms. Proven track record in increasing user engagemen
+        t and revenue through implementing automated testing
+        processes and collaborating with cross-functional teams to design
+        and implement new user interfaces. Strong expertise in
+        integrating mobile applications with backend services, implementing
+        security measures, and optimizing app performance.
       </p>
       <p>
         Want to know me better, Email me:
         <br />
-        sediqullah.badakhsh@gmail.com
+        ppptiger.king@gmail.com
       </p>
     </div>
     <div className="about-image" id="container_1">

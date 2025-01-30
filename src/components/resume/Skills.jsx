@@ -3,7 +3,7 @@ import { AiFillCheckCircle } from "react-icons/ai";
 const skill = [
   {
     id: 1,
-    skillType: "Front-end",
+    skillType: "Cross-platfrom-end",
     skills: ["HTML", "CSS,SCSS", "Bootstrap", "JavaScript", "React", "Redux"],
   },
   {

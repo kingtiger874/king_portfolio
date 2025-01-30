@@ -28,9 +28,11 @@
   .cards-container {
     width: calc(100vw - 200px);
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     .resume-card {
+      margin: 24px;
       background-color: $grayOpacity;
       width: 320px;
       padding: 10px;
@@ -71,13 +73,16 @@
   align-items: center;
 }
 .vertical {
-  transform: rotate(-90deg);
+  transform: scale(-1);
   font-size: 1.7rem !important;
+  writing-mode: vertical-lr;
+  margin: 0 40px;
 }
 .skills {
   display: flex;
   flex-direction: column;
   gap: 30px;
+  margin-left: 10px;
   .skill {
     margin-left: -25px;
     display: flex;

@@ -9,8 +9,8 @@ const Home = () => (
   <div className="home_container" id="Home">
     <div className="home_intro">
       <h2>HEY! I AM</h2>
-      <h1>SEDIQULLAH BADAKHSH</h1>
-      <h2>I&apos;m a Full Stack Web Developer</h2>
+      <h1>FAN PIAO</h1>
+      <h2>I&apos;m a pro Mobile Developer</h2>
       <a href="#About" className="shadow_effect explore">
         <span>Explore </span>
         <FaPlay />

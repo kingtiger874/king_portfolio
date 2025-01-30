@@ -13,7 +13,7 @@ const Contact = () => (
           <h4>
             <AiTwotoneMail />
           </h4>
-          <h4 className="title">sediqullah.badakhsh@gmail.com</h4>
+          <h4 className="title">ppptiger.king@gmail.com</h4>
           <a
             href="mailto:something@gmail.com"
             target="_blank"
@@ -27,7 +27,7 @@ const Contact = () => (
           <h4>
             <BsMessenger />
           </h4>
-          <h4 className="title">Sediqullah Badakhsh</h4>
+          <h4 className="title">Fan Piao</h4>
           <a
             href="https://m.me/sediqullah.badakhsh.5"
             target="_blank"
