@@ -13,7 +13,7 @@ const Socials = () => {
   return (
     <div className="home_social">
       <a
-        href="https://github.com/sediqullahbadakhsh"
+        href="https://github.com/kingtiger874"
         target="blank"
         className="shadow_effect social_icon"
       >

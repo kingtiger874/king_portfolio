@@ -1,4 +1,4 @@
-# Badakhsh Portfolio
+# Tiger Portfolio
 
 > My Portfolio webpage
 > ![screenshot](./src/assets/bgImage/screenshot.jpg)
@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-- [Badakhsh-Portfolio](https://sediqullahbadakhsh.github.io/badakhsh-portfolio/).
+- [Tiger-Portfolio](https://tiger.github.io/Tiger-portfolio/).
 
 ## Figma Design
 
@@ -23,9 +23,9 @@
 
 ## Authors
 
-👤 **Sediqullah Badakhsh**
+👤 **Sediqullah Tiger**
 
-- GitHub: [@sediqullahbadakhsh](https://github.com/sediqullahbadakhsh)
+- GitHub: [@tiger](https://github.com/kingtiger874)
 - Twitter: [@sediqullah6](https://twitter.com/sediqullah6)
 - LinkedIn: [@sediqullah](https://linkedin.com/in/sediqullah)
 

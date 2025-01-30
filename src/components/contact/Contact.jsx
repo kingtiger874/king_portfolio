@@ -29,7 +29,7 @@ const Contact = () => (
           </h4>
           <h4 className="title">Fan Piao</h4>
           <a
-            href="https://m.me/sediqullah.badakhsh.5"
+            href="https://m.me/tiger.5"
             target="_blank"
             rel="noreferrer"
             className="shadow_effect"
